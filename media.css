@@ -1,0 +1,997 @@
+@media (max-width:575px){
+    header .header .content{
+        width: 100%;
+        padding: 10px;  
+    }
+    header .header .content h3{
+        font-size: 20px;
+        
+    }
+    header .header .content ul{
+        right: -3px;
+        font-size: 9px;
+       
+    }
+    header .header .content ul li{
+         margin-left: 0px;
+    }
+    .linear .container h2{
+        font-size: 40px;
+    }
+     .linear .container p{
+        font-size: 12px;
+    }
+    .linear .botons .boton1{
+        transform: translate(70px, -188px);
+        width: 160px;
+    }
+     .linear .botons .boton2{
+        transform: translate(80px, -188px);
+         width: 160px;
+    }
+    .about {
+        height: 1000px;
+    }
+    .about .upper-div {
+            height: 17%;
+    }
+    .about .bottom-div .content {
+        flex-direction: column;
+    }
+    .about .bottom-div .content .right{
+          width: 85%;
+    }
+    .about .bottom-div .content .left{
+        width: 85%;
+    }
+    .about .bottom-div .content .left h3 {
+    font-size: 25px;
+    padding-bottom: 0px;
+   }
+    .about .bottom-div .content .left p {
+    line-height: 1.9;
+    font-size: 12px;
+    }
+    .about .bottom-div .content .left .boton {
+     margin-top: 20px;
+    width: 111px;
+    }
+    .about .upper-div p {
+        font-size: 12px;
+    }
+    .third-section {
+    height: 2670px;
+    }
+    .third-section .upper{
+        height: 7%;
+    }
+    .third-section .upper p{
+        font-size: 12px;
+    }
+    .fourth .clr .container .row{
+     margin-right: 116px;
+    margin-left: 97px;
+    }
+    .fourth{
+        height: 820px;
+    }
+    .fourth .clr{
+        height: 820px;
+    }
+    .fifth {
+    height: 3220px;
+    position: relative;
+    }
+    .fifth .top p {
+    font-size: 12px;
+    }
+    .fifth .bottom .container{
+        width: 64%;
+    }
+    .bottom .container .row .image img{
+       width: 340px;
+    }
+    .fifth .bottom .container .row .image .drk {
+        width: 96%;
+        right: 0;
+    }
+    .fifth .bottom .boton{
+    position: absolute;
+    bottom: 20px;
+    left: 160px;
+    width: 190px;
+    }
+    .sexith .top .blk .botm {
+        flex-direction: column;
+        align-items: center;
+    }
+    .sexith .top .blk .botm .circle {
+     height: 105px;
+     width: 105px;
+    margin-right: 25px;
+            padding: 30px 0;
+    }
+    .sexith .top .blk .botm {
+    width: 97%;
+        flex-direction: row;
+            transform: translateX(15px);
+        
+    }
+    .sexith .top .blk .botm .circle {
+    height: 105px;
+    width: 105px;
+        padding: 30px 0;
+    }
+    .sexith .top .blk .botm .circle span {
+    font-size: 15px;
+    }
+    .sexith .top .blk .row-text{
+            transform: translateX(15px);
+    }
+    .sexith .top .blk .row-text p {
+        font-size: 20px;
+    }
+    .seven .upper p {
+    font-size: 13px;
+    }
+    .seven .bottom .container .row .data {
+    margin-bottom: 20px;
+   }
+    .seven .bottom .container .row .data .last span {
+            right: 220px;
+    font-size: 20px;
+    }
+    .seven .bottom .container .row .data .last {
+        padding: 8px 0;
+        cursor: pointer;
+    }
+    .seven {
+    height: 2580px;
+    }
+    .eight .fok p {
+    font-size: 13px;
+    }
+  .eight .tht .container {
+    width: 51%;
+    }
+    .eight .tht .container .row .box{
+        margin-bottom: 15px;
+    }
+    .eight {
+    height: 1910px;
+    }
+    .nein .dark h2 {
+    font-size: 22px;
+   }
+     .nein .dark p {
+    font-size: 15px;
+   }
+    .ten .top p {
+        font-size: 13px;
+    }
+    .ten .botom{
+            display: flex;
+    flex-direction: column;
+    justify-content: center;
+    }
+    .ten .botom .left {
+            width: 537px;
+            margin: 20px 9px;
+    }
+    .ten .botom .right{
+         width: 537px;
+        margin: 0px -53px;
+    }
+    .ten{
+            height: 1150px;
+    }
+    .elevin .drk .top p {
+        font-size: 13px;
+    }
+    .elevin {
+    height: 1420px;
+    }
+    .elevin .botm .container{
+        width: 63%;
+    }
+    .twilv .top p {
+    font-size: 13px;
+    }
+    .twilv .botm .cart {
+    width: 220px;
+    }
+    .twilv {
+    height: 1350px;
+    }
+    .thirten .bg .drk .container .row .content i {
+    font-size: 30px;
+    }
+    .thirten .bg .drk .container .row .content p {
+    font-size: 13px;
+  }
+    .thirten .fot .btn {
+    width: 135px;
+       transform: translate(384px, -82px);
+    }
+    .thirten .fot h2 {
+    padding: 38px 16px;
+    font-size: 20px;
+    }
+    .fourten .top p {
+    font-size: 13px;
+    }
+    .fourten {
+    height: 1380px;
+    }
+    .fourten .botm .right input {
+    width: 240px;
+    }
+    .fourten .botm .right .big {
+    width: 63%;
+    }
+    .fourten .botm .right .botn 
+        {
+            margin: 0;
+            margin-top: 10px;
+        }
+   .fiften .drk .one {
+    width: 414px;
+    }
+    .fiften .drk .one .buton {
+            transform: translate(300px, 6px);
+    }
+    .sexten .container .row .box{
+        margin-bottom: 20px;
+    }
+    .sexten .container .row .box .divs {
+    width: 100%;
+    padding: 66px 0px;
+    transform: translate(0px, -28px);
+    }
+   
+    .sexten .container .row .box .container .row .col-12{
+        flex: 0;
+         margin-right: 27px;
+    }
+    .sexten .container .row .box .container .row .box{
+        height: 180px;
+    }
+    .sexten {
+    height:  1263px;
+    }
+    .end p {
+    padding: 11px 20px;
+    font-size: 15px;
+    }
+    .end ul {
+    right: -125px;
+    }
+}
+@media (min-width:576px) and (max-width:768px){
+    
+    header .header .content{
+        width: 90%;
+        padding: 20px;  
+    }
+    header .header .content h3{
+        font-size: 30px;
+        left:-14;
+    }
+    header .header .content ul{
+        right: -35px;
+        font-size: 12px;
+       
+    }
+    header .header .content ul li{
+         margin-left: -2px;
+    }
+    .linear .container h2{
+        font-size: 45px;
+    }
+     .linear .container p{
+        font-size: 15px;
+    }
+    .linear .botons .boton1{
+        transform: translate(188px, -188px);
+        width: 180px;
+    }
+     .linear .botons .boton2{
+        transform: translate(200px, -188px);
+         width: 180px;
+    }
+    .about {
+        height: 1000px;
+    }
+    .about .upper-div {
+            height: 20%;
+    }
+    .about .bottom-div .content {
+        flex-direction: column;
+    }
+    .about .bottom-div .content .right{
+          width: 85%;
+    }
+    .about .bottom-div .content .left{
+        width: 85%;
+    }
+    .about .bottom-div .content .left h3 {
+    font-size: 28px;
+    padding-bottom: 0px;
+   }
+    .about .bottom-div .content .left p {
+    line-height: 1.9;
+    font-size: 14px;
+    }
+    .about .bottom-div .content .left .boton {
+     margin-top: 20px;
+    width: 111px;
+    }
+    .about .upper-div p {
+        font-size: 15px;
+    }
+    .third-section {
+    height: 1370px;
+    }
+    .third-section .upper{
+        height: 9%;
+    }
+    .third-section .upper p{
+        font-size: 15px;
+    }
+    .third-section .content .value {
+          width: 280px;
+            padding-top: 90px;
+
+    }
+    .fourth .clr .container{
+    height: 100%;
+    width: 100%;
+    }
+    .fourth{
+        height: 555px;
+    }
+    .fourth .clr{
+        height: 555px;
+    }
+    .clr .container .row {
+    transform: translate(-10px,190px);
+    }
+    .clr .container .row .fok .bg {
+            transform: translate(5px, -5px);
+    }
+    .fifth {
+    height: 1160px;
+    position: relative;
+    }
+    .fifth .top p {
+    font-size: 15px;
+    }
+    .fifth .bottom .container{
+        width: 100%;
+    }
+    .bottom .container .row .image img{
+      padding: 10px;
+    width: 143px;
+    }
+    .fifth .bottom .container .row .image .drk {
+    width: 91%;
+    transform: translate(13px, -11px);
+        right: 0;
+    }
+    .bottom .container .row .image .drk h4 {
+        font-size: 12px;
+    }
+    .bottom .container .row .image .drk p{
+         font-size: 11px;
+    }
+    .bottom .container .row .image .drk i {
+        right: 80px;
+    bottom: 7;
+    }
+    .fifth .bottom .boton{
+    position: absolute;
+    bottom: 20px;
+    left: 290px;
+    width: 190px;
+    }
+    .sexith .top .blk .botm {
+        flex-direction: column;
+        align-items: center;
+    }
+    .sexith .top .blk .botm .circle {
+     height: 105px;
+     width: 105px;
+    margin-right: 25px;
+            padding: 30px 0;
+    }
+    .sexith .top .blk .botm {
+    width: 97%;
+        flex-direction: row;
+            transform: translateX(15px);
+        
+    }
+    .sexith .top .blk .botm .circle {
+    height: 105px;
+    width: 105px;
+        padding: 30px 0;
+    }
+    .sexith .top .blk .botm .circle span {
+    font-size: 15px;
+    }
+    .sexith .top .blk .row-text{
+            transform: translateX(15px);
+    }
+    .sexith .top .blk .row-text p {
+        font-size: 20px;
+    }
+    .seven .upper p {
+    font-size: 15px;
+    }
+    .seven .bottom .container .row .data {
+    margin-right: 60px;
+        margin-bottom: 10px;
+   }
+    .seven .bottom .container .row .data .last span {
+            right: 80px;
+    font-size: 20px;
+    }
+    .seven .bottom .container .row .data .last {
+        padding: 8px 0;
+        cursor: pointer;
+    }
+    .seven .bottom .container .row .data .num,.word,.text,.last{
+            width: 250px;
+    }
+    .seven {
+    height:  1460px;
+    }
+    .eight .fok p {
+    font-size: 15px;
+    }
+  .eight .tht .container {
+    width: 100%;
+    }
+    .eight .tht .container .row .box{
+        margin-bottom: 15px;
+            margin-right: 132px;
+    }
+    .eight .tht .container .row .box .icons{
+        width: 254px;
+    }
+    .eight {
+    height: 1100px;
+    }
+    .nein .dark h2 {
+    font-size: 28px;
+   }
+     .nein .dark p {
+    font-size: 18px;
+   }
+    .ten .top p {
+        font-size: 15px;
+    }
+    .ten .botom{
+            display: flex;
+    flex-direction: column;
+    justify-content: center;
+    }
+    .ten .botom .left {
+               width: 656px;
+             margin: 20px 40px;
+    }
+    .ten .botom .right{
+            width: 655px;
+          margin: 0px -20px;
+    }
+    .ten{
+            height: 1150px;
+    }
+    .elevin .drk .top p {
+        font-size: 15px;
+    }
+    .elevin {
+    height: 1420px;
+    }
+    .elevin .botm .container{
+        width: 45%;
+    }
+    .twilv .top p {
+    font-size: 15px;
+    }
+    .twilv .botm .cart {
+    width: 311px;
+    }
+    .twilv {
+    height: 1350px;
+    }
+    .thirten .bg .drk .container .row .content i {
+    font-size: 40px;
+    }
+    .thirten .bg .drk .container .row .content p {
+    font-size: 15px;
+  }
+    .thirten .fot .btn {
+    width: 135px;
+          transform: translate(70px, -2px);
+    }
+    .thirten .fot h2 {
+    padding: 38px 16px;
+    font-size: 24px;
+    }
+    .fourten .top{
+        height: 16%;
+    }
+    .fourten .botm .left{
+        width: 500px;
+    }
+    .fourten .botm .left .icon {
+    margin-left: 66px;      
+    }
+    .fourten .top p {
+    font-size: 13px;
+    }
+    .fourten {
+    height: 1160px;
+    }
+    .fourten .botm .right input {
+    width: 310px;
+    }
+    .fourten .botm .right .big {
+    width: 80%;
+    }
+    .fourten .botm .right .botn 
+        {
+            margin: 0;
+            margin-top: 20px;
+        }
+   .fiften .drk .one {
+    width: 414px;
+    }
+    .fiften .drk .one .buton {
+            transform: translate(300px, 6px);
+    }
+    .sexten .container .row .box{
+        margin-bottom: 20px;
+    }
+    .sexten .container .row .box .divs {
+    width: 100%;
+    padding: 66px 0px;
+    transform: translate(0px, -28px);
+    }
+   
+    .sexten .container .row .box .container .row .col-12{
+        flex: 0;
+         margin-right: 27px;
+    }
+    .sexten .container .row .box .container .row .box{
+        height: 180px;
+    }
+    .sexten .container .row .box .line{
+            width: 120px;
+
+    }
+    .sexten {
+    height: 838px;
+    }
+    .end p {
+        padding: 20px 20px;
+    font-size: 17px;
+    }
+    .end ul {
+        right: -280px;
+    bottom: 24px;
+    }
+}
+@media (min-width:769px) and (max-width:991px){
+      
+    header .header .content{
+        width: 85%;
+        padding: 20px;  
+    }
+    header .header .content h3{
+        font-size: 30px;
+        left:-14;
+    }
+    header .header .content ul{
+        right: -35px;
+        font-size: 13px;
+       
+    }
+    header .header .content ul li{
+         margin-left: -1px;
+    }
+    .linear .container h2{
+        font-size: 50px;
+    }
+     .linear .container p{
+        font-size: 16px;
+    }
+    .linear .botons .boton1{
+        transform: translate(272px, -188px);
+        width: 180px;
+    }
+     .linear .botons .boton2{
+        transform: translate(285px, -188px);
+         width: 180px;
+    }
+    .about {
+        height: 1000px;
+    }
+    .about .upper-div {
+            height: 20%;
+    }
+    .about .bottom-div .content {
+        flex-direction: column;
+    }
+    .about .bottom-div .content .right{
+          width: 85%;
+    }
+    .about .bottom-div .content .left{
+        width: 85%;
+    }
+    .about .bottom-div .content .left h3 {
+    font-size: 28px;
+    padding-bottom: 0px;
+   }
+    .about .bottom-div .content .left p {
+    line-height: 1.9;
+    font-size: 14px;
+    }
+    .about .bottom-div .content .left .boton {
+     margin-top: 20px;
+    width: 111px;
+    }
+    .about .upper-div p {
+        font-size: 15px;
+    }
+    .third-section {
+    height: 1434px;
+    }
+    .third-section .upper{
+        height: 14%;
+    }
+    .third-section .upper p{
+        font-size: 15px;
+    }
+    .third-section .content .value {
+          width: 280px;
+            padding-top: 90px;
+
+    }
+    .fourth .clr .container{
+    height: 100%;
+    width: 100%;
+    }
+    .fourth{
+        height: 555px;
+    }
+    .fourth .clr{
+        height: 555px;
+    }
+    .clr .container .row {
+    transform: translate(2px,190px);
+    }
+    .clr .container .row .fok p {
+        font-size: 21px;
+        margin-right: -23px;
+    }
+    .clr .container .row .fok .bg {
+            transform: translate(26px, -5px);
+    }
+    .fifth {
+    height: 1160px;
+    position: relative;
+    }
+    .fifth .top p {
+    font-size: 16px;
+    }
+    .fifth .bottom .container{
+        width: 100%;
+    }
+    .bottom .container .row .image img{
+    width: 160px;
+    }
+    .fifth .bottom .container .row .image .drk {
+        width: 89%;
+    transform: translate(-4px, 0px);
+        right: 0;
+    }
+    .bottom .container .row .image .drk h4 {
+        font-size: 12px;
+    }
+    .bottom .container .row .image .drk p{
+         font-size: 11px;
+    }
+    .bottom .container .row .image .drk i {
+        right: 80px;
+    bottom: 7;
+    }
+    .fifth .bottom .boton{
+    position: absolute;
+    bottom: 20px;
+    left: 380px;
+    width: 190px;
+    }
+    .sexith .top .blk .botm {
+        flex-direction: column;
+        align-items: center;
+    }
+  .sexith .top .blk .botm .circle {
+    height: 130px;
+    width: 130px;
+    padding: 37px 0;
+   }
+    .sexith .top .blk .botm {
+            width: 100%;
+         flex-direction: row;
+            transform: translateX(40px);
+        
+    }
+    .sexith .top .blk .botm .circle {
+        height: 120px;
+        width: 120px;
+        padding: 30px 0;
+    }
+    
+    .sexith .top .blk .botm .circle span {
+    font-size: 25px;
+    }
+    .sexith .top .blk .row-text{
+            transform: translateX(4px);
+    }
+    .sexith .top .blk .row-text p {
+        font-size: 20px;
+    }
+    .seven .upper p {
+    font-size: 16px;
+    }
+    .seven .bottom .container .row .data {
+        margin-bottom: 10px;
+   }
+    .seven .bottom .container .row .data .last span {
+            right: 120px;
+    font-size: 20px;
+    }
+    .seven .bottom .container .row .data .last {
+        padding: 8px 0;
+        cursor: pointer;
+    }
+    .seven .bottom .container .row .data .num,.word,.text,.last{
+            width: 320px;
+    }
+    .seven {
+    height:  1460px;
+    }
+    .eight .fok p {
+    font-size: 16px;
+    }
+  .eight .tht .container {
+    width: 100%;
+    }
+    .eight .tht .container .row .box{
+        margin-bottom: 15px;
+    }
+    .eight .tht .container .row .box .icons{
+        width: 254px;
+            transform: translateX(-37px);
+    }
+    .eight {
+    height: 1100px;
+    }
+    .nein .dark h2 {
+    font-size: 28px;
+   }
+     .nein .dark p {
+    font-size: 18px;
+   }
+    .ten .top p {
+        font-size: 16px;
+    }
+    .ten .botom{
+            display: flex;
+    flex-direction: column;
+    justify-content: center;
+    }
+    .ten .botom .left {
+               width: 656px;
+                margin: 20px 128px;
+    }
+    .ten .botom .right{
+            width: 655px;
+          margin: 0px 67px;
+    }
+    .ten{
+            height: 1150px;
+    }
+    .elevin .drk .top p {
+        font-size: 16px;
+    }
+    .elevin .drk .botm .container .box{
+        margin-right: 15px;
+    }
+    .elevin {
+    height: 1100px;
+    }
+    .twilv .top h4{
+        font-size: 35px;
+    }
+    .twilv .top p {
+    font-size: 16px;
+    }
+    .twilv .botm .cart {
+    width: 390px;
+        margin: 40px 46px;
+    }
+
+    .twilv {
+    height: 1350px;
+    }
+    .thirten .bg .drk .container .row .content i {
+    font-size: 40px;
+    }
+    .thirten .bg .drk .container .row .content p {
+    font-size: 15px;
+  }
+    .thirten .fot .btn {
+        width: 200px;
+        transform: translate(160px, -2px);
+    }
+    .thirten .fot h2 {
+        padding: 32px 25px;
+        font-size: 27px;
+    }
+    .fourten .top{
+        height: 20%;
+    }
+    .fourten .botm .left{
+        width: 500px;
+        margin-left: 100px;
+    }
+    .fourten .botm .left .icon {
+    margin-left: 66px;      
+    }
+    .fourten .top p {
+    font-size: 16px;
+    }
+    .fourten {
+    height: 1200px;
+    }
+    .fourten .botm .right{
+        right: -160px;
+    }
+    .fourten .botm .right input {
+    width: 310px;
+    }
+    .fourten .botm .right .big {
+    width: 80%;
+    }
+    .fourten .botm .right .botn 
+        {
+            margin: 0;
+            margin-top: 20px;
+        }
+   .fiften .drk .one {
+    width: 414px;
+    }
+    .fiften .drk .one .buton {
+            transform: translate(300px, 6px);
+    }
+    .sexten .container {
+        width: 100%;
+    }
+    .sexten .container .row .box{
+        margin-bottom: 20px;
+    }
+    .sexten .container .row .box .divs {
+    width: 100%;
+    padding: 66px 0px;
+    transform: translate(0px, -28px);
+    }
+   
+    .sexten .container .row .box .container .row .col-12{
+        flex: 0;
+        margin-right: 23px;
+    }
+    .sexten .container .row .box .container .row .box{
+        height: 180px;
+    }
+    .sexten .container .row .box .line{
+        width: 127px;
+        font-size: 19px;
+        padding-bottom: 10px;
+
+    }
+    .sexten .container .row .box .divs .txt {
+        height: 50px;
+        font-size: 13px;
+        width: 64px;
+    }
+    .sexten {
+    height: 580px;
+    }
+    .end {
+        height: 80px;
+    }
+    .end p {
+        padding: 20px 20px;
+    font-size: 17px;
+    }
+    .end ul {
+        right: -9px;
+        bottom: -15px;
+    } 
+}
+@media (min-width:992px){
+    .about .upper-div p {
+        font-size: 16px;
+    }
+    .fifth .top p {
+        font-size: 16px;
+    }
+    .seven .bottom .container .row .data .num,.word,.text,.last{
+        width: 264px;
+   }
+   .seven .bottom .container .row {
+    margin-top: 22px;
+   }
+   .eight .tht .container .row .box img {
+    width: 255px;
+   }
+   .ten .botom .left {
+    width: 600px;
+    margin: 20px 20px;
+  }
+  .ten .botom .right{
+    margin: 20px 0px;
+    width: 600px;
+  }
+  .elevin .drk .botm .container .box{
+    margin-right: 25px;
+    width: 334px;
+  }
+  .twilv .botm .cart {
+    margin: 20px 5px;
+    width: 320px;
+  }
+  .thirten .bg .drk .container .row .content i{
+    font-size: 60px;
+  }
+  .thirten .fot .btn{
+    transform: translate(130px, -6px);
+  }
+  .fourten .botm .left{
+      margin: 25px;
+      width: 413px;
+  }
+  .fourten .botm .right{
+    width: 677px;
+  }
+  .fourten .botm .right input{
+      width: 293px;
+  }
+  .end p{
+    font-size: 20px;
+  }
+  .end ul {
+    right: -141px;
+    font-size: 18px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
